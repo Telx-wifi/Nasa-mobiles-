@@ -1,12 +1,17 @@
-Nasa Mobiles
-Welcome to Nasa Mobiles! We are located in the Red Sea Mall, near the SBI Bank, in Balussery, Kerala. We offer fantastic offers—of up to 40% off on all gadgets and mobile phones!# 📱 Nasa Mobiles
+Here is the text to paste into your README file:
+
+```markdown
+# 📱 Nasa Mobiles
 
 Welcome to **Nasa Mobiles**! 
 
 📍 **Location:** Red Sea Mall (Near SBI Bank), Balussery, Kerala.
 
 🎉 **Special Deals:** We offer fantastic discounts of up to **40% off** on all gadgets and mobile phones!
+
 📞 **Contact Us:**
-- **Phone:**6238666322
-- **Email:** THERIYAN666322@GMAIL.COM
-- **Social Media:** NASA.MOBILES.BALUSSERY
+- **Phone:** +91 6235943616
+- **Email:** nasamobile003@gmail.com
+```
+
+Once you’ve pasted that in, you can click "Commit changes" in the top right to save it!
