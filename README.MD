@@ -1,7 +1,12 @@
-echo "# Nasa-mobiles-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Telx-wifi/Nasa-mobiles-.git
-git push -u origin main
+Nasa Mobiles
+Welcome to Nasa Mobiles! We are located in the Red Sea Mall, near the SBI Bank, in Balussery, Kerala. We offer fantastic offers—of up to 40% off on all gadgets and mobile phones!# 📱 Nasa Mobiles
+
+Welcome to **Nasa Mobiles**! 
+
+📍 **Location:** Red Sea Mall (Near SBI Bank), Balussery, Kerala.
+
+🎉 **Special Deals:** We offer fantastic discounts of up to **40% off** on all gadgets and mobile phones!
+📞 **Contact Us:**
+- **Phone:**6238666322
+- **Email:** THERIYAN666322@GMAIL.COM
+- **Social Media:** NASA.MOBILES.BALUSSERY
